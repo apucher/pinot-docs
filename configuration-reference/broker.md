@@ -93,7 +93,7 @@ bin/pinot-admin.sh StartBroker -configFileName /path/to/broker.conf
       <td style="text-align:left">truststore password</td>
     </tr>
     <tr>
-      <td style="text-align:left">pinot.broker.client.tls.requires_client_auth</td>
+      <td style="text-align:left">pinot.broker.client.tls.client.auth</td>
       <td style="text-align:left">false</td>
       <td style="text-align:left">toggle for requiring TLS client auth</td>
     </tr>
